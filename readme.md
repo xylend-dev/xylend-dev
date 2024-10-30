@@ -6,9 +6,7 @@ Welcome to my GitHub portfolio! With **8 years of experience in development** an
 
 ## 🚀 What I Do
 
-I specialize in full-stack blockchain solutions, ensuring security, scalability, and user-focused design.
-
-- My skills include:
+I specialize in full-stack blockchain solutions, ensuring security, scalability, and user-focused design. My skills include:
 
 - **Blockchain Development**: Solidity, Rust, Web3.js, Ethers.js
 - **Smart Contracts**: Dex, NFT marketplaces, DeFi protocols, staking, DAOs
@@ -25,22 +23,19 @@ I specialize in full-stack blockchain solutions, ensuring security, scalability,
 Here are a few projects that showcase my blockchain expertise:
 
 ### 1. **Decentralized Exchange (DEX)**
-
-- **Description**: A DEX with token swaps, liquidity pools, and staking functionalities.
-- **Technologies**: Rust, Next.js, Web3.js, IPFS, AWS
-- **Highlights**: Focused on gas optimization and security.
+   - **Description**: A DEX with token swaps, liquidity pools, and staking functionalities.
+   - **Technologies**: Rust, Next.js, Web3.js, IPFS, AWS
+   - **Highlights**: Focused on gas optimization and security.
 
 ### 2. **NFT Marketplace**
-
-- **Description**: A multi-chain NFT marketplace supporting minting, trading, and auctions.
-- **Technologies**: Solidity, Next.js, Ethers.js, IPFS, Firebase
-- **Highlights**: Seamless integration with Ethereum and Polygon.
+   - **Description**: A multi-chain NFT marketplace supporting minting, trading, and auctions.
+   - **Technologies**: Solidity, Next.js, Ethers.js, IPFS, Firebase
+   - **Highlights**: Seamless integration with Ethereum and Polygon.
 
 ### 3. **Decentralized Autonomous Organization (DAO)**
-
-- **Description**: A governance framework enabling community-driven decision-making.
-- **Technologies**: Solidity, Hardhat, React
-- **Highlights**: Secure voting and multi-signature support.
+   - **Description**: A governance framework enabling community-driven decision-making.
+   - **Technologies**: Solidity, Hardhat, React
+   - **Highlights**: Secure voting and multi-signature support.
 
 ---
 
