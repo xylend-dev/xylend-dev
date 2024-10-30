@@ -1,6 +1,6 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Xylend-Dev!
 
-🔗 **Blockchain Expert with 8 Years of Development Experience | Full-Stack Developer | Smart Contract Architect**
+🔗 **Blockchain Expert | Full-Stack Developer | Smart Contract Architect**
 
 Welcome to my GitHub portfolio! With **8 years of experience in development** and a **3-year focus on blockchain**, I bring a deep understanding of decentralized applications, smart contract architecture, and blockchain infrastructure across multiple ecosystems, including **Ethereum, Solana, Polkadot, Cosmos, and more**.
 
@@ -9,7 +9,7 @@ Welcome to my GitHub portfolio! With **8 years of experience in development** an
 I specialize in full-stack blockchain solutions, ensuring security, scalability, and user-focused design. My skills include:
 
 - **Blockchain Development**: Solidity, Rust, Web3.js, Ethers.js
-- **Smart Contracts**: ERC20, ERC721, ERC1155 tokens, NFT marketplaces, DeFi protocols, staking, DAOs
+- **Smart Contracts**: Dex, NFT marketplaces, DeFi protocols, staking, DAOs
 - **Backend Development**: Node.js, Python, serverless architectures
 - **Frontend Development**: React.js, Next.js, Vue.js
 - **Security**: Smart contract auditing and vulnerability prevention
@@ -24,7 +24,7 @@ Here are a few projects that showcase my blockchain expertise:
 
 ### 1. **Decentralized Exchange (DEX)**
    - **Description**: A DEX with token swaps, liquidity pools, and staking functionalities.
-   - **Technologies**: Solidity, React, Web3.js, IPFS, AWS
+   - **Technologies**: Rust, Next.js, Web3.js, IPFS, AWS
    - **Highlights**: Focused on gas optimization and security.
 
 ### 2. **NFT Marketplace**
@@ -46,16 +46,3 @@ Here are a few projects that showcase my blockchain expertise:
 🔸 **Security-First Approach**: I prioritize secure coding practices and rigorous testing to ensure that blockchain projects are both reliable and secure.
 
 🔸 **Constantly Evolving Knowledge**: Blockchain evolves quickly; I stay up-to-date with the latest innovations and protocols to offer my clients cutting-edge solutions.
-
----
-
-## 💼 Let's Collaborate!
-
-Looking for a seasoned blockchain developer to bring your vision to life? I’m available for contract work and freelance opportunities.
-
-**📫 How to Reach Me**:
-- **Email**: [your email]
-- **LinkedIn**: [your LinkedIn profile link]
-- **Twitter**: [your Twitter handle]
-
-Let's build the future of decentralized technology together! 🚀
