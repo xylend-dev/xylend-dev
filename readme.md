@@ -46,3 +46,7 @@ Here are a few projects that showcase my blockchain expertise:
 🔸 **Security-First Approach**: I prioritize secure coding practices and rigorous testing to ensure that blockchain projects are both reliable and secure.
 
 🔸 **Constantly Evolving Knowledge**: Blockchain evolves quickly; I stay up-to-date with the latest innovations and protocols to offer my clients cutting-edge solutions.
+
+<div align="center"> 
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</div>
